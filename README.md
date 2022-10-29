@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeorgiPetrushev
 - 👀 I’m interested in developing a new technology
 - 🌱 I’m currently learning front end web with React.js
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate in future technology
 - 📫 How to reach me Email: George.Petrushev.Bell@gmail.com
 
 <!---
